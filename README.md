@@ -1,2 +1,2 @@
 # Server-Side-Datatable-CRUD
-Server-Side-Datatable(CRUD) using CodeIgniter and Ajax request.
+Server-Side-Datatable(CRUD) using PHP-CodeIgniter and Ajax request.
